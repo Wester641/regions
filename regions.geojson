@@ -1,0 +1,73 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Europe",
+        "total_devices": 67342,
+        "healthy": 42108,
+        "warning": 15234,
+        "expired": 38,
+        "no_eos": 9962,
+        "health_score": 63.5,
+        "color": "#FF9800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.0, 50.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "North America",
+        "total_devices": 15114,
+        "healthy": 12678,
+        "warning": 1436,
+        "expired": 7,
+        "no_eos": 993,
+        "health_score": 84.2,
+        "color": "#4CAF50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-98.5, 39.8]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Asia-Pacific",
+        "total_devices": 9871,
+        "healthy": 7871,
+        "warning": 2000,
+        "expired": 0,
+        "no_eos": 0,
+        "health_score": 80.1,
+        "color": "#4CAF50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.0, 34.0]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Middle East",
+        "total_devices": 1000,
+        "healthy": 800,
+        "warning": 200,
+        "expired": 0,
+        "no_eos": 0,
+        "health_score": 80.0,
+        "color": "#4CAF50"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.0, 29.0]
+      }
+    }
+  ]
+}
